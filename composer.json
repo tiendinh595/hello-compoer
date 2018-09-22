@@ -1,5 +1,5 @@
 {
-  "name": "dinhvt/hello-ccomposer",
+  "name": "dinhvt/hello-composer",
   "license": "MIT",
   "authors": [
     {
@@ -7,11 +7,11 @@
       "email": "tiendinh595@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {},
   "autoload": {
     "psr-4": {
       "Dinhvt\\HelloComposer\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
