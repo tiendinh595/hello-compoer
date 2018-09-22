@@ -11,7 +11,10 @@
   "autoload": {
     "psr-4": {
       "Dinhvt\\HelloComposer\\": "src/"
-    }
+    },
+    "files": [
+      "src/Helper.php"
+    ]
   },
   "minimum-stability": "dev"
 }
