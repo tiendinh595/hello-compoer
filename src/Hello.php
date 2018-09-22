@@ -13,6 +13,7 @@ class  Hello
 {
     function __construct()
     {
+        echo "demo composer package:";
         print_r(__CLASS__);
     }
 }
